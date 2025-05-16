@@ -1,0 +1,294 @@
+{
+    "channel_names": {
+        "0": "T1",
+        "1": "T1C",
+        "2": "T2W",
+        "3": "T2F"
+    },
+    "labels": {
+        "background": 0,
+        "NETC": 1,
+        "SNFH": 2,
+        "ET": 3,
+        "RC": 4
+    },
+    "numTraining": 30,
+    "file_ending": ".nii.gz",
+    "licence": "see https://www.synapse.org/Synapse:syn53708249/wiki/627508",
+    "converted_by": "Please enter your name, especially when sharing datasets with others in a common infrastructure!",
+    "name": "Dataset226_BraTS2021-30",
+    "reference": "https://www.synapse.org/Synapse:syn53708249/wiki/627500",
+    "description": "This dataset does not copy the data into nnunet format and just links to existing data. The dataset can only be used from one machine because the paths in the dataset.json are hard coded",
+    "dataset": {
+        "BraTS2021_00000": {
+            "label": "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00000/BraTS2021_00000_seg.nii.gz",
+            "images": [
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00000/BraTS2021_00000_t1.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00000/BraTS2021_00000_t1ce.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00000/BraTS2021_00000_t2.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00000/BraTS2021_00000_flair.nii.gz"
+            ]
+        },
+        "BraTS2021_00002": {
+            "label": "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00002/BraTS2021_00002_seg.nii.gz",
+            "images": [
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00002/BraTS2021_00002_t1.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00002/BraTS2021_00002_t1ce.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00002/BraTS2021_00002_t2.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00002/BraTS2021_00002_flair.nii.gz"
+            ]
+        },
+        "BraTS2021_00003": {
+            "label": "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00003/BraTS2021_00003_seg.nii.gz",
+            "images": [
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00003/BraTS2021_00003_t1.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00003/BraTS2021_00003_t1ce.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00003/BraTS2021_00003_t2.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00003/BraTS2021_00003_flair.nii.gz"
+            ]
+        },
+        "BraTS2021_00005": {
+            "label": "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00005/BraTS2021_00005_seg.nii.gz",
+            "images": [
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00005/BraTS2021_00005_t1.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00005/BraTS2021_00005_t1ce.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00005/BraTS2021_00005_t2.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00005/BraTS2021_00005_flair.nii.gz"
+            ]
+        },
+        "BraTS2021_00006": {
+            "label": "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00006/BraTS2021_00006_seg.nii.gz",
+            "images": [
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00006/BraTS2021_00006_t1.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00006/BraTS2021_00006_t1ce.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00006/BraTS2021_00006_t2.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00006/BraTS2021_00006_flair.nii.gz"
+            ]
+        },
+        "BraTS2021_00008": {
+            "label": "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00008/BraTS2021_00008_seg.nii.gz",
+            "images": [
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00008/BraTS2021_00008_t1.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00008/BraTS2021_00008_t1ce.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00008/BraTS2021_00008_t2.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00008/BraTS2021_00008_flair.nii.gz"
+            ]
+        },
+        "BraTS2021_00009": {
+            "label": "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00009/BraTS2021_00009_seg.nii.gz",
+            "images": [
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00009/BraTS2021_00009_t1.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00009/BraTS2021_00009_t1ce.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00009/BraTS2021_00009_t2.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00009/BraTS2021_00009_flair.nii.gz"
+            ]
+        },
+        "BraTS2021_00012": {
+            "label": "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00012/BraTS2021_00012_seg.nii.gz",
+            "images": [
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00012/BraTS2021_00012_t1.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00012/BraTS2021_00012_t1ce.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00012/BraTS2021_00012_t2.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00012/BraTS2021_00012_flair.nii.gz"
+            ]
+        },
+        "BraTS2021_00014": {
+            "label": "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00014/BraTS2021_00014_seg.nii.gz",
+            "images": [
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00014/BraTS2021_00014_t1.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00014/BraTS2021_00014_t1ce.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00014/BraTS2021_00014_t2.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00014/BraTS2021_00014_flair.nii.gz"
+            ]
+        },
+        "BraTS2021_00016": {
+            "label": "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00016/BraTS2021_00016_seg.nii.gz",
+            "images": [
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00016/BraTS2021_00016_t1.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00016/BraTS2021_00016_t1ce.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00016/BraTS2021_00016_t2.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00016/BraTS2021_00016_flair.nii.gz"
+            ]
+        },
+        "BraTS2021_00017": {
+            "label": "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00017/BraTS2021_00017_seg.nii.gz",
+            "images": [
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00017/BraTS2021_00017_t1.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00017/BraTS2021_00017_t1ce.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00017/BraTS2021_00017_t2.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00017/BraTS2021_00017_flair.nii.gz"
+            ]
+        },
+        "BraTS2021_00018": {
+            "label": "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00018/BraTS2021_00018_seg.nii.gz",
+            "images": [
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00018/BraTS2021_00018_t1.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00018/BraTS2021_00018_t1ce.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00018/BraTS2021_00018_t2.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00018/BraTS2021_00018_flair.nii.gz"
+            ]
+        },
+        "BraTS2021_00019": {
+            "label": "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00019/BraTS2021_00019_seg.nii.gz",
+            "images": [
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00019/BraTS2021_00019_t1.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00019/BraTS2021_00019_t1ce.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00019/BraTS2021_00019_t2.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00019/BraTS2021_00019_flair.nii.gz"
+            ]
+        },
+        "BraTS2021_00021": {
+            "label": "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00021/BraTS2021_00021_seg.nii.gz",
+            "images": [
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00021/BraTS2021_00021_t1.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00021/BraTS2021_00021_t1ce.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00021/BraTS2021_00021_t2.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00021/BraTS2021_00021_flair.nii.gz"
+            ]
+        },
+        "BraTS2021_00022": {
+            "label": "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00022/BraTS2021_00022_seg.nii.gz",
+            "images": [
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00022/BraTS2021_00022_t1.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00022/BraTS2021_00022_t1ce.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00022/BraTS2021_00022_t2.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00022/BraTS2021_00022_flair.nii.gz"
+            ]
+        },
+        "BraTS2021_00024": {
+            "label": "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00024/BraTS2021_00024_seg.nii.gz",
+            "images": [
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00024/BraTS2021_00024_t1.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00024/BraTS2021_00024_t1ce.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00024/BraTS2021_00024_t2.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00024/BraTS2021_00024_flair.nii.gz"
+            ]
+        },
+        "BraTS2021_00025": {
+            "label": "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00025/BraTS2021_00025_seg.nii.gz",
+            "images": [
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00025/BraTS2021_00025_t1.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00025/BraTS2021_00025_t1ce.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00025/BraTS2021_00025_t2.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00025/BraTS2021_00025_flair.nii.gz"
+            ]
+        },
+        "BraTS2021_00026": {
+            "label": "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00026/BraTS2021_00026_seg.nii.gz",
+            "images": [
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00026/BraTS2021_00026_t1.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00026/BraTS2021_00026_t1ce.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00026/BraTS2021_00026_t2.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00026/BraTS2021_00026_flair.nii.gz"
+            ]
+        },
+        "BraTS2021_00028": {
+            "label": "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00028/BraTS2021_00028_seg.nii.gz",
+            "images": [
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00028/BraTS2021_00028_t1.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00028/BraTS2021_00028_t1ce.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00028/BraTS2021_00028_t2.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00028/BraTS2021_00028_flair.nii.gz"
+            ]
+        },
+        "BraTS2021_00030": {
+            "label": "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00030/BraTS2021_00030_seg.nii.gz",
+            "images": [
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00030/BraTS2021_00030_t1.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00030/BraTS2021_00030_t1ce.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00030/BraTS2021_00030_t2.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00030/BraTS2021_00030_flair.nii.gz"
+            ]
+        },
+        "BraTS2021_00031": {
+            "label": "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00031/BraTS2021_00031_seg.nii.gz",
+            "images": [
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00031/BraTS2021_00031_t1.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00031/BraTS2021_00031_t1ce.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00031/BraTS2021_00031_t2.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00031/BraTS2021_00031_flair.nii.gz"
+            ]
+        },
+        "BraTS2021_00032": {
+            "label": "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00032/BraTS2021_00032_seg.nii.gz",
+            "images": [
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00032/BraTS2021_00032_t1.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00032/BraTS2021_00032_t1ce.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00032/BraTS2021_00032_t2.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00032/BraTS2021_00032_flair.nii.gz"
+            ]
+        },
+        "BraTS2021_00033": {
+            "label": "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00033/BraTS2021_00033_seg.nii.gz",
+            "images": [
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00033/BraTS2021_00033_t1.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00033/BraTS2021_00033_t1ce.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00033/BraTS2021_00033_t2.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00033/BraTS2021_00033_flair.nii.gz"
+            ]
+        },
+        "BraTS2021_00036": {
+            "label": "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00036/BraTS2021_00036_seg.nii.gz",
+            "images": [
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00036/BraTS2021_00036_t1.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00036/BraTS2021_00036_t1ce.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00036/BraTS2021_00036_t2.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00036/BraTS2021_00036_flair.nii.gz"
+            ]
+        },
+        "BraTS2021_00043": {
+            "label": "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00043/BraTS2021_00043_seg.nii.gz",
+            "images": [
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00043/BraTS2021_00043_t1.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00043/BraTS2021_00043_t1ce.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00043/BraTS2021_00043_t2.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00043/BraTS2021_00043_flair.nii.gz"
+            ]
+        },
+        "BraTS2021_00044": {
+            "label": "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00044/BraTS2021_00044_seg.nii.gz",
+            "images": [
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00044/BraTS2021_00044_t1.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00044/BraTS2021_00044_t1ce.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00044/BraTS2021_00044_t2.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00044/BraTS2021_00044_flair.nii.gz"
+            ]
+        },
+        "BraTS2021_00045": {
+            "label": "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00045/BraTS2021_00045_seg.nii.gz",
+            "images": [
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00045/BraTS2021_00045_t1.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00045/BraTS2021_00045_t1ce.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00045/BraTS2021_00045_t2.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00045/BraTS2021_00045_flair.nii.gz"
+            ]
+        },
+        "BraTS2021_00046": {
+            "label": "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00046/BraTS2021_00046_seg.nii.gz",
+            "images": [
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00046/BraTS2021_00046_t1.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00046/BraTS2021_00046_t1ce.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00046/BraTS2021_00046_t2.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00046/BraTS2021_00046_flair.nii.gz"
+            ]
+        },
+        "BraTS2021_00049": {
+            "label": "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00049/BraTS2021_00049_seg.nii.gz",
+            "images": [
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00049/BraTS2021_00049_t1.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00049/BraTS2021_00049_t1ce.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00049/BraTS2021_00049_t2.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00049/BraTS2021_00049_flair.nii.gz"
+            ]
+        },
+        "BraTS2021_00051": {
+            "label": "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00051/BraTS2021_00051_seg.nii.gz",
+            "images": [
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00051/BraTS2021_00051_t1.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00051/BraTS2021_00051_t1ce.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00051/BraTS2021_00051_t2.nii.gz",
+                "/workspaces/BraTS2021_nnUnet/dataset/nnUNet_raw/BraTS2021_Testing_30/BraTS2021_00051/BraTS2021_00051_flair.nii.gz"
+            ]
+        }
+    }
+}
